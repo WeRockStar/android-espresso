@@ -1,11 +1,10 @@
-package com.werockstar.calculatorwithespresso;
+package com.werockstar.loginwithespresso;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;

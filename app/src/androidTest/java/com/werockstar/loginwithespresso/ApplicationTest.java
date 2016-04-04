@@ -1,4 +1,4 @@
-package com.werockstar.calculatorwithespresso;
+package com.werockstar.loginwithespresso;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

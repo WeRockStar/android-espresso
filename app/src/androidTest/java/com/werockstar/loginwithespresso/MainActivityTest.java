@@ -1,4 +1,4 @@
-package com.werockstar.calculatorwithespresso;
+package com.werockstar.loginwithespresso;
 
 import android.support.test.rule.ActivityTestRule;
 import android.support.test.runner.AndroidJUnit4;
